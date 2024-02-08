@@ -1,19 +1,23 @@
-### Olá 👋
+### Olá, me chamo Brendon!   :smiley:👋
 
-Me chamo Brendon Lira Olivier, tenho 27 anos, sou um programador Front End, estudando arduamente Back End para enfim se tornar um programador Full Stacks! :mortar_board:
+:point_up: Atualmente tenho 27 anos, e irei me tornar um programador!  :computer:
 <br>
-No atual momento estou familarizado com :
+No momento trabalho em uma empresa onde atuo como operador de máquina e farei minha transação de carreira para programador, tenho como objetivo me profissionalizar em : <br>
+Web Developer Front-End :mag:<br>
+Web Developer Back-End :globe_with_meridians: <br>
+E claro, me tornando um Web Developer Full-Stack :mortar_board: <br>
+Desenvolvedor de aplicativos móveis :iphone: <br>
+<br>
+ :school_satchel:Estou concursando na DevClub, onde estou me aperfeiçoando em JavaScript, entre outros. <br>
 <br>
 <br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+:books:Aperfeiçoados :
 <br>
 <br>
-E aprendizado e profissionalizando em :
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />. <br>
 <br>
-<br>
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ :hourglass: Em estudo : 
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 
 
 <br>
