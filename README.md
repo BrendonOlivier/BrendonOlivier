@@ -1,23 +1,24 @@
-### Olá, me chamo Brendon!   :smiley:👋
+<h1>Quem sou eu? 🧐</h1>
 
-:point_up: Atualmente tenho 27 anos, e irei me tornar um programador!  :computer:
-<br>
-No momento trabalho em uma empresa onde atuo como operador de máquina e farei minha transação de carreira para programador, tenho como objetivo me profissionalizar em : <br>
-Web Developer Front-End :mag:<br>
-Web Developer Back-End :globe_with_meridians: <br>
-E claro, me tornando um Web Developer Full-Stack :mortar_board: <br>
-Desenvolvedor de aplicativos móveis :iphone: <br>
-<br>
- :school_satchel:Estou concursando na DevClub, onde estou me aperfeiçoando em JavaScript, entre outros. <br>
-<br>
-<br>
-:books:Aperfeiçoados :
-<br>
-<br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />. <br>
-<br>
- :hourglass: Em estudo : 
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<p>Meu nome é <b>Brendon Lira Olivier</b>, tenho 28 anos,sou um profissional com experiências tanto Front-End como Back-End e um programador apaixonado por tecnologia! <br><br>
+Este é o espaço que encontrei onde consigo por minhas idéias e criatividades em forma de código,<br> por boa parte do meu tempo nisso, se tornou e é a minha grande paixão.</p><br>
+
+- 💬 Pergunte-me sobre qualquer coisa [aqui](https://www.linkedin.com/in/brendon-olivier/)
+- 📫 Caso queira um projeto [brendonolivier123@hotmail.com](brendonolivier123@hotmail.com)
+<br><br>
+
+Linguagens e Ferramentas : 
+#
+<div style="display: inline-block">
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">-
+  <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg">
+</div>
 
 
 <br>
