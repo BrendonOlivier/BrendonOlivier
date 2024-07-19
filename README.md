@@ -1,6 +1,6 @@
 <h1>Quem sou eu? 🧐</h1>
 
-<p>Meu nome é <b>Brendon Lira Olivier</b>, tenho 28 anos,sou um profissional com experiências tanto Front-End como Back-End e um programador apaixonado por tecnologia! <br><br>
+<p>Meu nome é <b>Brendon Lira Olivier</b>, tenho 28 anos, sou um profissional com experiências tanto Front-End como Back-End e um programador apaixonado por tecnologia! <br><br>
 Este é o espaço que encontrei onde consigo por minhas idéias e criatividades em forma de código,<br> por boa parte do meu tempo nisso, se tornou e é a minha grande paixão.</p><br>
 
 - 💬 Pergunte-me sobre qualquer coisa [aqui](https://www.linkedin.com/in/brendon-olivier/)
