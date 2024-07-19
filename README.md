@@ -7,8 +7,8 @@ Este é o espaço que encontrei onde consigo por minhas idéias e criatividades 
 - 📫 Caso queira um projeto [brendonolivier123@hotmail.com](brendonolivier123@hotmail.com)
 <br><br>
 
-Linguagens e Ferramentas : 
-#
+<h2 font-size="60px">Linguagens e Ferramentas :</h2><br>
+
 <div style="display: inline-block">
   <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">-
   <img align="center" alt="Brendon-Html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">-
