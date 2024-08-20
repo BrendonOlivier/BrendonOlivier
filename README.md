@@ -25,6 +25,6 @@ Este é o espaço que encontrei onde consigo por minhas idéias e criatividades 
 <br>
 <br>
 
-[![Brendon Stats](https://github-readme-stats.vercel.app/api?username=BrendonOlivier)](https://github.com/anuraghazra/github-readme-stats)
+[![Brendon Stats](https://github-readme-stats.vercel.app/api?username=BrendonOlivier&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonOlivier)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonOlivier&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
